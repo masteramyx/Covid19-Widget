@@ -1,0 +1,1 @@
+/Users/kyleamyx/Covid19Tracker/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/kyleamyx/Covid19Tracker/buildSrc/build/classes/kotlin/main/DependenciesKt.class
